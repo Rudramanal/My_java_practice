@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 //Two numwric calculator.
+
 public class calc {
     public static void main(String[] args) {
         Scanner soumalya = new Scanner(System.in);
